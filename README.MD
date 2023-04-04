@@ -1,7 +1,7 @@
 Static Website Example
 ----------------------
 
-Git Demo Repo.
+Git Demo Repo. This repo is for Az400 Source Control Demo by Himanshu Kumar. 
 
 
 License
